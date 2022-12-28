@@ -13,13 +13,13 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 ML/CS Enthusiast | 🛸 Pune, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Pranav Moghe | 💻 ML/CS Enthusiast | 🛸 Pune, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
 
 <p align="center">
-   <a href="https://twitter.com/pranavsmoghe]"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pranavsmoghe?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
+   <a href="https://twitter.com/pranavsmoghe]"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pranavsmoghe?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@pranavsmoghe"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/pranavsmoghe/pranavsmoghe"> <img alt="Pranav Moghe Github" src="https://badges.pufler.dev/visits/pranavsmoghe/pranavsmoghe"> </a> -->
    <a href="https://visitor-badge.glitch.me/badge?page_id=pranavsmoghe.pranavsmoghe"> <img alt="Pranav Moghe Github" src="https://visitor-badge.glitch.me/badge?page_id=pranavsmoghe.pranavsmoghe"> </a>
  </p>
@@ -35,18 +35,19 @@
   <h3> I'm pre-final year student interested in Machine Learning and Complex Systems.</h3>
 </p>
 
- - 📖 Reading up on Machine Learning and the Philosophy of AI
+ 📖 Reading up on Machine Learning and 
+ the Philosophy of AI
  
- - <i>and React, Python, C++</i>
+ <i>and React, Python, C++</i>
    
- - 🧬 Complexity Science intrigues me
+ 🧬 Complexity Science intrigues me
 
- - 🏛️ Also into History, Philosophy and the History of Philosophy 
+ 🏛️ Also into History, Philosophy and the History of Philosophy 
  
- - and ofcourse, the Philosophy of History
+ and ofcourse, the Philosophy of History
  
  <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Machine Learning | C++ | Competitive Programming </h4>
    </p>
 
 <!--  -->
@@ -80,19 +81,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
-
-
-
  ### - What i do
 
 
@@ -110,8 +98,4 @@
 <p align="center">Made with ❤️ in India</p>
 
 <h1 align='center'>⚡️<i>Cheers!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/pranavsmoghe/pranavsmoghe/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 

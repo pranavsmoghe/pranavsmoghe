@@ -1,9 +1,7 @@
 ## Hey there, I'm Pranav 👋
 
-<p align="center">
-  <img src="https://c.tenor.com/bnhf7.gif](https://media.tenor.com/d8I4YZTFLh4AAAAC/data-data-data-rdj.gif" alt="animated" />
-</p
 
+![data-data-data-rdj](https://user-images.githubusercontent.com/35550633/210976745-b9b4db8f-ead2-4535-9b72-b7ec9cd057f1.gif)
 
 
 

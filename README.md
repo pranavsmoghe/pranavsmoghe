@@ -1,7 +1,7 @@
 ## Hey there, I'm Pranav 👋
 
 <p align="center">
-  <img src="https://tenor.com/bnhf7.gif" alt="animated" />
+  <img src="https://c.tenor.com/bnhf7.gif" alt="animated" />
 </p
 
 

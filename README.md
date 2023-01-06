@@ -1,9 +1,10 @@
 ## Hey there, I'm Pranav 👋
 
+<p align="center">
 
 ![data-data-data-rdj](https://user-images.githubusercontent.com/35550633/210976745-b9b4db8f-ead2-4535-9b72-b7ec9cd057f1.gif)
 
-
+</p>
 
 - 🌱 I’m a pre-final year student pursuing Bachelor's degree in Engineering (Information Technology) from University of Pune, India (expected 2024)
 - 👦 I love to code, hack, break & tinker and spend my time exploring different aspects of computer science

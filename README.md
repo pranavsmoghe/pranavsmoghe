@@ -6,11 +6,9 @@
 
 </p>
 
-- 🌱 I’m a pre-final year student pursuing Bachelor's degree in Engineering (Information Technology) from University of Pune, India (expected 2024)
+- 🌱 I’m a final year student pursuing Bachelor's degree in Engineering (Information Technology) from University of Pune, India (expected 2024)
 - 👦 I love to code, hack, break & tinker and spend my time exploring different aspects of computer science
 - 🖥️ Of all things CS, I'm particularly interested in Machine Learning, Systems Programming and the Theory of Computation.
-- 🚀 If you wish to know more about my technical background and achievements, please find my resume [here](#).
-
 
 ### Connect with me:
 
